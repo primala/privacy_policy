@@ -18,7 +18,7 @@ We are not liable for any direct, indirect, incidental, special, or consequentia
 You agree to indemnify and hold us harmless from any claims, damages, or expenses arising from your use of the Service or your breach of this Agreement.
 
 ## Governing law
-This Agreement shall be governed by the laws of [insert jurisdiction]. Any disputes arising from this Agreement shall be resolved in the courts of [insert jurisdiction].
+This Agreement shall be governed by the laws of the USA. Any disputes arising from this Agreement shall be resolved in the courts of the USA.
 
 ## Modifications to the Agreement
 We reserve the right to modify this Agreement at any time. Your continued use of the Service after any modifications to this Agreement shall constitute your acceptance of the modified Agreement.
